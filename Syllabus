@@ -7,7 +7,22 @@
   - Pigeonhole Principle
 
 3. Object Oriented Programming
+         C++
+        ------
   - Encapsulation, Polymorphism, Inheritance
   - Public, private, protected access
   - Overloading, overriding
-  - 
+  - Friend function
+  - Copy constructor
+     # 3 cases where copy constructor is applied
+     
+  - Virtual Function
+     #virtual function
+     #pure virtual function
+     #abstract class
+          JAVA
+        -----------
+  - Abstract class vs Interface
+  
+ 4. Database
+ 
