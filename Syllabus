@@ -40,3 +40,17 @@
  6. TOC
   - Regular Language (DFA, NFA)
   - Regular expression
+
+ 7. Compiler
+  - Typical phases of a program
+  - Typical phases of a compiler
+  - relocatable machine code
+  - CFG, Parsing
+ 
+ 8. Computer Architecture
+  - Performance comparison
+  - Cache
+  - Virtual Memory
+  
+ 9. Artificial Intelligence
+ 
