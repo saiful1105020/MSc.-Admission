@@ -2,6 +2,7 @@
  - Macro
  - Structure, Union concepts
  - Static, extern variables
+ - Coding practice on function, recursion, string, array, etc.
  
 2. Discrete Mathematics
   - Pigeonhole Principle
@@ -24,11 +25,13 @@
           JAVA
         -----------
   - Abstract class vs Interface
+  - Thread Synchronization
   
  4. Database
   - Relational Algebra
   - Basic SQL
   - ERD
+  - B+ tree
   
  5. Algorithm
   - BFS/DFS
@@ -52,6 +55,7 @@
   - Performance comparison
   - Cache
   - Virtual Memory
+  - Pipelining basics; Hazards
   
  9. Artificial Intelligence
   - Agent, Rational agent
@@ -78,7 +82,23 @@
   - Network Security
  
 12. Operating Systems
+  - IPC
+  - Deadlock
+  - LINUX basics
+  
 13. Software Engineering
+  :3
+  
 14. Information System Design
+  - Diagrams
+  
 15. Digital Logic Design
+  - K-maps
+  - Flip-flops
+  - Encoder, Decoder, MUX, Adder basics
+  - Registers, Counters
+  
 16. Data Structures
+  - Stack, Queue
+  - BST
+  - Simulations
